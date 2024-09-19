@@ -9,7 +9,11 @@ The game ends when all lines are drawn and boxes are claimed. The player with th
 
 # Features
 •two difficulties: beginner & expert
+
 •two modes: human vs human & human vs computer
+
 •in game options: redo& undo
+
 •save & load your game
+
 •display top ten list
