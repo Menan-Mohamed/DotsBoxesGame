@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="HumanVSHumanBEGMODE.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="782" zoom_1="1" zoom_2="4">
+		<Cursor>
+			<Cursor1 position="12948" topLine="41" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="28" />
+			<Collapse line="40" />
+			<Collapse line="294" />
+		</Folding>
+	</File>
+	<File name="EXPmode.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14508" topLine="63" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="33" />
+			<Collapse line="51" />
+			<Collapse line="161" />
+			<Collapse line="182" />
+			<Collapse line="189" />
+			<Collapse line="681" />
+			<Collapse line="790" />
+			<Collapse line="833" />
+			<Collapse line="914" />
+			<Collapse line="941" />
+			<Collapse line="973" />
+			<Collapse line="1015" />
+		</Folding>
+	</File>
+	<File name="ComputerVSHumanBEGMODE.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="708" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+		</Folding>
+	</File>
+	<File name="Structures.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="13" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="274" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="107" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="20" />
+		</Folding>
+	</File>
+	<File name="ExtraFunctions.h" open="1" top="1" tabpos="6" split="2" active="2" splitpos="32" zoom_1="3" zoom_2="-2">
+		<Cursor>
+			<Cursor1 position="13012" topLine="314" />
+			<Cursor2 position="15147" topLine="171" />
+		</Cursor>
+		<Folding>
+			<Collapse line="18" />
+			<Collapse line="51" />
+			<Collapse line="80" />
+			<Collapse line="131" />
+			<Collapse line="147" />
+			<Collapse line="527" />
+			<Collapse line="554" />
+			<Collapse line="584" />
+			<Collapse line="625" />
+			<Collapse line="648" />
+			<Collapse line="650" />
+			<Collapse line="697" />
+			<Collapse line="742" />
+		</Folding>
+	</File>
+	<File name="Display.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2086" topLine="24" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="36" />
+		</Folding>
+	</File>
+	<File name="Menu.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2115" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="80" />
+			<Collapse line="115" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
